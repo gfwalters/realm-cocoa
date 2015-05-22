@@ -110,7 +110,7 @@ extension SortDescriptor: StringLiteralConvertible {
     }
 
     /**
-    Creates a `SortDescriptor` from an `StringLiteralType`.
+    Creates a `SortDescriptor` from a `StringLiteralType`.
 
     :param: stringLiteral Property name literal.
     */
